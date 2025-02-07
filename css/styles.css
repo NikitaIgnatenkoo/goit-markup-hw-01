@@ -1,3 +1,10 @@
-body {
-    font-family: 'Tangerine', cursive;
+.hero.title {
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
